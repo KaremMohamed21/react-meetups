@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import { FavoritesContextProvider } from "../store/favorites-context";
 
 import AllMeetupsPage from "../pages/AllMeetupsPage";
